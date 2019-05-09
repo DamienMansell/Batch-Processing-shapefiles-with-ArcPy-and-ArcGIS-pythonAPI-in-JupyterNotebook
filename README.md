@@ -1,4 +1,4 @@
-# Batch-Procesing-with-ArcGIS-python
+# Batch-Processing-with-ArcGIS-python
 Introduction to batch processing and GIS automation using Jupyter Notebooks
 
 Published by Dr Damien Mansell, University of Exeter
